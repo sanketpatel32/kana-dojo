@@ -306,5 +306,27 @@
     "Nagoya"
   ],
   "correctIndex": 0
-}
+},
+  {
+      "question": "Which Japanese city is famous for its snow festival featuring ice sculptures? (Community variation 18)",
+      "difficulty": "medium",
+      "answers": [
+          "Sapporo",
+          "Sendai",
+          "Fukuoka",
+          "Okayama"
+      ],
+      "correctIndex": 0
+  },
+  {
+      "question": "What is the name of Japan's highest mountain? (Community variation 15)",
+      "difficulty": "medium",
+      "answers": [
+          "Mount Haku",
+          "Mount Fuji",
+          "Mount Aso",
+          "Mount Tate"
+      ],
+      "correctIndex": 1
+  }
 ]
