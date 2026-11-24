@@ -432,5 +432,19 @@
   "english": "I'm going to stop being human, JoJo! (alt wording 12)",
   "anime": "JoJo's Bizarre Adventure: Phantom Blood",
   "character": "Dio Brando"
-}
+},
+  {
+      "japanese": "グララララ",
+      "romaji": "Gurararara",
+      "english": "Gurararara! (alt wording 31) (alt wording 83)",
+      "anime": "One Piece",
+      "character": "Edward Newgate (Whitebeard)"
+  },
+  {
+      "japanese": "オラに元気を分けてくれ!",
+      "romaji": "Ora ni genki o wakete kure!",
+      "english": "Lend me your energy! (alt wording 52)",
+      "anime": "Dragon Ball Z",
+      "character": "Son Goku"
+  }
 ]
