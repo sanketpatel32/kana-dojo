@@ -418,5 +418,40 @@
   "english": "very",
   "region": "Yamaguchi/Hiroshima",
   "note": "Regional intensifier. (Set 6)"
+  },
+  {
+      "dialect": "〜ばい",
+      "standardJapanese": "〜だよ",
+      "english": "sentence ending",
+      "region": "Fukuoka",
+      "note": "Assertive friendly ending. (Set 3)"
+  },
+  {
+      "dialect": "したっけ",
+      "standardJapanese": "それじゃあ",
+      "english": "well then/see you",
+      "region": "Hokkaido",
+      "note": "Transition/goodbye phrase. (Set 3)"
+  },
+  {
+      "dialect": "したっけ",
+      "standardJapanese": "それじゃあ",
+      "english": "well then/see you",
+      "region": "Hokkaido",
+      "note": "Transition/goodbye phrase. (Set 5)"
+  },
+  {
+      "dialect": "〜じゃけぇ",
+      "standardJapanese": "〜だから",
+      "english": "because",
+      "region": "Hiroshima",
+      "note": "Common causal ending. (Set 1)"
+  },
+  {
+      "dialect": "しばれる",
+      "standardJapanese": "とても寒い",
+      "english": "freezing cold",
+      "region": "Hokkaido",
+      "note": "Used for severe winter cold. (Set 6)"
   }
 ]
